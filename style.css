@@ -1,0 +1,28 @@
+body{
+  color: #B22222;
+  background-color: #000000 ;
+}
+
+
+
+h1 {
+  font-family: Times;
+  color: red;
+  border-style: dashed;
+  border-width: medium;
+    }
+
+p {
+      font-family: Arial;
+      color: #C0C0C0;
+        }
+
+li {
+      font-family: Arial;
+      color:#C0C0C0;
+        }
+
+h2 {
+  font-family: Times;
+  color: red;
+}
